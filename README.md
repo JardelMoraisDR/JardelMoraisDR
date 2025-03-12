@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **jardelmorais.contato@gmail.com**
 
+- 🌟 Github Gist: [https://gist.github.com/JardelMoraisDR](https://gist.github.com/JardelMoraisDR)
+
 - 📄 Know about my experiences [I have a degree in Systems Analysis and Development from FATEC São Caetano do Sul and have extensive experience in developing ERP systems, commercial automation, web scraping, e-commerce, and mobile applications.](I have a degree in Systems Analysis and Development from FATEC São Caetano do Sul and have extensive experience in developing ERP systems, commercial automation, web scraping, e-commerce, and mobile applications.)
 
 <h3 align="left">Connect with me:</h3>
